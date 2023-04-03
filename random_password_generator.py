@@ -24,5 +24,5 @@ for i in range(pwd_length):
   pwd += ''.join(secrets.choice(alphabet))
 
 print(f"""Your password is:
-      🔐 {pwd}
-Save it in a secure place.🚨""")
+🔐 {pwd}
+Save it in a safe place.🚨""")
